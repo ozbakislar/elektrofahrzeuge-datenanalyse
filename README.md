@@ -1,18 +1,18 @@
 # 📖 **Sprachen:** [English](README_EN.md) | **Deutsch** | [Türkçe](README_TR.md)
 
-# 📊 Elektrofahrzeuge (EV) – Explorative Datenanalyse
+# 📊 Elektrofahrzeuge – Explorative Datenanalyse
 
 Explorative Datenanalyse (EDA) der technischen und kommerziellen Leistungsdaten von Elektrofahrzeug-Modellen zwischen 2020 und 2026
 
 ## 📋 Über das Projekt
 
-Umfassende Analyse des globalen EV-Marktes mit Fokus auf:
+Umfassende Analyse des globalen Elektrofahrzeugmarktes mit Fokus auf:
 
 * Technische Leistungsdaten (Preis, Batteriekapazität, Reichweite, Motorleistung)
 * Kategoriale Marktstruktur (Marke, Karosserietyp, Antriebsart, Marktsegment)
 * Zusammenhänge zwischen technischen und kommerziellen Kennzahlen
 * Markenvergleiche und Absatzanalyse
-* Geschäftliche Erkenntnisse für den globalen EV-Markt
+* Geschäftliche Erkenntnisse für den globalen Elektrofahrzeugmarkt
 
 ## 📦 Datensatz
 
@@ -42,7 +42,7 @@ Umfassende Analyse des globalen EV-Marktes mit Fokus auf:
 ✅ Das **Luxury**-Segment hat den höchsten Durchschnittspreis, das **Budget**-Segment jedoch den höchsten Durchschnittsabsatz  
 ✅ Extremwerte bei Preis, Leistung und Bewertung stammen größtenteils von **Premium- und Hochleistungsfahrzeugen** und wurden nicht als Datenfehler gewertet  
 
-**Kernaussage:** Ein hoher Preis bedeutet nicht automatisch hohen Absatz. Technische Spezifikationen, Markenpositionierung und Marktsegment bestimmen gemeinsam Preis, Absatzleistung und Kundenzufriedenheit im EV-Markt.
+**Kernaussage:** Ein hoher Preis bedeutet nicht automatisch hohen Absatz. Technische Spezifikationen, Markenpositionierung und Marktsegment bestimmen gemeinsam Preis, Absatzleistung und Kundenzufriedenheit im Elektrofahrzeugmarkt.
 
 ## 🛠️ Technologien
 

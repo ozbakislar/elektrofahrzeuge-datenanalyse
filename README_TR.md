@@ -1,18 +1,18 @@
 # 📖 **Dil:** [English](README_EN.md) | [Deutsch](README.md) | **Türkçe**
 
-# 📊 Elektrikli Araçlar (EV) – Keşifsel Veri Analizi
+# 📊 Elektrikli Araçlar – Keşifsel Veri Analizi
 
-2020-2026 yılları arasındaki elektrikli araç (EV) modellerinin teknik ve ticari performans verilerinin Keşifsel Veri Analizi (EDA)
+2020-2026 yılları arasındaki elektrikli araç modellerinin teknik ve ticari performans verilerinin Keşifsel Veri Analizi (EDA)
 
 ## 📋 Proje Hakkında
 
-Küresel EV pazarının kapsamlı analizi:
+Küresel elektrikli araç pazarının kapsamlı analizi:
 
 * Teknik performans verileri (fiyat, batarya kapasitesi, menzil, motor gücü)
 * Kategorik pazar yapısı (marka, kasa tipi, çekiş tipi, pazar segmenti)
 * Teknik ve ticari göstergeler arasındaki ilişkiler
 * Marka karşılaştırmaları ve satış analizi
-* Küresel EV pazarı için iş içgörüleri
+* Küresel elektrikli araç pazarı için iş içgörüleri
 
 ## 📦 Veri Seti
 
@@ -42,7 +42,7 @@ Her satırın bir markanın belirli bir yıl ve varyanttaki (base, standard, lon
 ✅ **Luxury** segmenti en yüksek ortalama fiyata sahipken, **Budget** segmenti en yüksek ortalama satışı gösteriyor  
 ✅ Fiyat, güç ve puandaki uç değerler büyük ölçüde **premium ve yüksek performanslı araçlardan** kaynaklanıyor ve veri hatası olarak değerlendirilmedi  
 
-**Temel Çıkarım:** Yüksek fiyat otomatik olarak yüksek satış anlamına gelmiyor. EV pazarında fiyatı, satış performansını ve müşteri memnuniyetini teknik özellikler, marka konumlandırması ve pazar segmenti birlikte belirliyor.
+**Temel Çıkarım:** Yüksek fiyat otomatik olarak yüksek satış anlamına gelmiyor. Elektrikli araç pazarında fiyatı, satış performansını ve müşteri memnuniyetini teknik özellikler, marka konumlandırması ve pazar segmenti birlikte belirliyor.
 
 ## 🛠️ Teknolojiler
 
